@@ -3,7 +3,7 @@ body{
 }
 h1 {
     font-size: 2.5em; /* 字體大小 */
-    color: #333;      /* 字體顏色 */
+    color:red;      /* 字體顏色 */
     text-align: center; /* 置中對齊 */
     margin-top: 20px;  /* 上方間距 */
 }
